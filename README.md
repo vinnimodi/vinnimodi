@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinnimodi
 - 👀 I’m interested in web dev, c, cpp, python, java.
-- 🌱 I’m currently learning Java and JS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on cloud computing and cyber security.
 - 📫 How to reach me at vinnimodi20@gmail.com
 
